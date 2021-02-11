@@ -34,6 +34,7 @@ MANIFEST
 .vscode/ #vs code settings folder
 student_practice.ipynb # jupyter practice file
 jupyter_practice.ipynb # jupyter practice file
+pandas_practice-db_version.ipynb # jupyter practice file
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
