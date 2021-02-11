@@ -32,8 +32,9 @@ MANIFEST
 
 # files not to be tracked
 .vscode/ #vs code settings folder
-student_practice.ipynb # jupyter practice file
+student_practice.ipynb # jupyter test file
 jupyter_practice.ipynb # jupyter practice file
+pandas_practice.ipynb # pandas practice file
 pandas_practice-db_version.ipynb # jupyter practice file
 
 # PyInstaller
