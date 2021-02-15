@@ -36,6 +36,7 @@ student_practice.ipynb # jupyter test file
 jupyter_practice.ipynb # jupyter practice file
 pandas_practice.ipynb # pandas practice file
 pandas_practice-db_version.ipynb # jupyter practice file
+functions.ipynb
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
